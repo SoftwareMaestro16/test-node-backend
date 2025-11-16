@@ -27,14 +27,26 @@ bun run dev
 
 ***
 
-## User пример
+## User Example
 
-![User пример](assets/image1.png)
+![User Example](assets/image1.png)
 
-## Admin пример
+## Admin Example
 
-![Admin пример](assets/image2.png)
+![Admin Example](assets/image2.png)
+
+## Get User by ID
+
 ![Get User by ID](assets/image3.png)
+
+## Get All Users
+
 ![Get All Users](assets/image4.png)
+
+## Register
+
 ![Register](assets/image5.png)
+
+## Login
+
 ![Login](assets/image6.png)
