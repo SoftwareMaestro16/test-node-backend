@@ -25,7 +25,14 @@ bun run dev
 - JWT для аутентификации
 - Insomnia для тестирования API
 
+***
+
+## User пример
+
 ![User пример](assets/image1.png)
+
+## Admin пример
+
 ![Admin пример](assets/image2.png)
 ![Get User by ID](assets/image3.png)
 ![Get All Users](assets/image4.png)
